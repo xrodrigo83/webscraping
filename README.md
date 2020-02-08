@@ -1,2 +1,2 @@
 # webscraping
-Web Scraping Book
+Web Scraping Book Exercises
